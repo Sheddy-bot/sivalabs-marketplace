@@ -32,3 +32,19 @@ A plugin for Spring Boot application development using Java, Spring Boot, Spring
 |-------------------|----------------------------------------|
 | **context7**      | General library documentation lookup   |
 | **Playwright**    | Browser automation for testing         |
+
+## How to use?
+
+- Clone this repository
+  `git clone https://github.com/sivaprasadreddy/sivalabs-marketplace.git`
+- Install the marketplace and plugins
+  ```shell
+  $ claude
+  /plugin marketplace add sivaprasadreddy/sivalabs-marketplace
+  /plugin enable sivaprasadreddy/sivalabs-marketplace
+  /plugin install spring-boot-dev@sivalabs-marketplace
+  ```
+
+- Verify the plugins are installed successfully using `/plugins` command in Claude CLI
+- Create a Spring Boot project with Web, Validation, Spring Data JPA, H2 starters
+- In the Claude CLI, prompt "Implement CRUD REST API for Person with id, name, email and phone fields"
