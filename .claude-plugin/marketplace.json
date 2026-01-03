@@ -1,5 +1,9 @@
 {
   "name": "sivalabs-marketplace",
+  "metadata": {
+    "description": "A collection of plugins for Java application development",
+    "version": "1.0.0"
+  },
   "owner": {
     "name": "K Siva Prasad Reddy",
     "email": "sivaprasadreddy.k@gmail.com",
@@ -8,7 +12,7 @@
   "plugins": [
     {
       "name": "spring-boot-dev",
-      "source": "./spring-boot-dev",
+      "source": "./plugins/spring-boot-dev",
       "description": "Plugin for Spring Boot application development"
     }
   ]
