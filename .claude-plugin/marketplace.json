@@ -1,0 +1,15 @@
+{
+  "name": "sivalabs-marketplace",
+  "owner": {
+    "name": "K Siva Prasad Reddy",
+    "email": "sivaprasadreddy.k@gmail.com",
+    "url": "https://sivalabs.dev"
+  },
+  "plugins": [
+    {
+      "name": "spring-boot-dev",
+      "source": "./spring-boot-dev",
+      "description": "Plugin for Spring Boot application development"
+    }
+  ]
+}
