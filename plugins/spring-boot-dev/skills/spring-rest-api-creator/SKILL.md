@@ -9,6 +9,7 @@ description: Creates Spring REST APIs following best practices.
 
 The following are key principles to follow while creating Spring REST APIs:
 
+- Make sure to create the recommended package structure for Spring Boot projects
 - Use **converters** to bind `@PathVariable` and `@RequestParam` to Value Objects
 - Use **Jackson** for `@RequestBody` binding to Request Objects with Value Object properties
 - Use `@JsonUnwrapped` to map flattened JSON to nested objects

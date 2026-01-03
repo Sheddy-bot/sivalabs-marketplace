@@ -9,6 +9,7 @@ description: Creates Spring Data JPA repositories following best practices.
 
 The following are key principles to follow while creating Spring Data JPA Repositories:
 
+- Make sure to create the recommended package structure for Spring Boot projects
 - Create repositories **only for aggregate roots**
 - Use `@Query` with **JPQL** for custom queries
 - Prefer **meaningful method names** over long Spring Data JPA finder methods

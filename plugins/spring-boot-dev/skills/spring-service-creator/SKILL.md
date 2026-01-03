@@ -9,6 +9,7 @@ description: Creates Spring Service classes following best practices.
 
 The following are key principles to follow while creating Spring Service classes:
 
+- Make sure to create the recommended package structure for Spring Boot projects
 - Create separate classes for Command and Query operations
 - Use `@Transactional` for all write operations
 - Use `@Transactional(readOnly = true)` for all read operations

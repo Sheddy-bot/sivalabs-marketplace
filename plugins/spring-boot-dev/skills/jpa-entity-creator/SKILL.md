@@ -9,6 +9,7 @@ description: Creates JPA entities following best practices.
 
 The following are key principles to follow while creating JPA entities:
 
+- Make sure to create the recommended package structure for Spring Boot projects
 - Use application generated **TSID** or **UUID** as a String for primary keys
 - Create a Value Object to represent the primary key and use `@EmbeddedId` annotation
 - Create a **protected no-arg constructor** for JPA
